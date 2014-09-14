@@ -1,3 +1,5 @@
+package sort;
+
 public class QuickSort {
     public static void sort(int[] a) {
         sort(a, 0, a.length - 1);

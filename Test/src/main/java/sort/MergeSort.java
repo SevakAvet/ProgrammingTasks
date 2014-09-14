@@ -1,3 +1,5 @@
+package sort;
+
 public class MergeSort {
     private static int[] numbers;
     private static  int[] temp;
